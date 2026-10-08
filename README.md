@@ -34,4 +34,4 @@ Five analog FPV quadcopters built, wired, and tuned from the ground up in Betafl
 ---
 
 ## Contact
-[Email](mailto:YOUR-EMAIL)
+[Email](mailto:patrickbacon10@gmail.com)
