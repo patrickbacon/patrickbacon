@@ -14,6 +14,7 @@ Experienced in platform assembly, flight controller configuration, and mission p
 **Flight Software:** Betaflight · Mission Planner · QGroundControl
 **Hardware:** Raspberry Pi · Raspberry Pi Pico · Sensors & Servos · FPV Systems
 **Design:** CAD Modeling
+**End User Application** Small Unit Tactics · FPV and ISR sUAS Piloting · Live Strike ESAD experience
 
 ---
 
