@@ -20,7 +20,7 @@ Experienced in platform assembly, flight controller configuration, and mission p
 
 ## Featured Projects
 
-### [Automated Laser Tracking Turret](https://github.com/YOUR-USERNAME/laser-tracking-turret)
+### [Automated Laser Tracking Turret](https://github.com/patrickbacon/laser-tracking-turret)
 A pan-tilt turret that automatically detects, tracks, and follows targets with a laser in real time.
 
 ### [AI Desk Robot](https://github.com/YOUR-USERNAME/ai-desk-robot)
