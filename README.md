@@ -26,7 +26,7 @@ A pan-tilt turret that automatically detects, tracks, and follows targets with a
 A talking desk robot with an OLED face that turns toward movement and holds conversations through an AI linked to a PC.
 
 ### [sUAS Dropper](https://github.com/YOUR-USERNAME/suas-dropper)
-A payload release system for small unmanned aircraft, triggered remotely from the pilot's controller.
+A servo-actuated sUAS payload release, triggered by an I2C optical sensor reading a pilot-commanded LED signal.
 
 ### [5x FPV Analog Builds](https://github.com/YOUR-USERNAME/fpv-analog-builds)
 Five analog FPV quadcopters built, wired, and tuned from the ground up in Betaflight.
