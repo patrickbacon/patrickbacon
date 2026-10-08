@@ -23,7 +23,7 @@ Experienced in platform assembly, flight controller configuration, and mission p
 ### [Automated Laser Tracking Turret](https://github.com/patrickbacon/laser-tracking-turret)
 A pan-tilt turret that automatically detects, tracks, and follows targets with a laser in real time.
 
-### [AI Desk Robot](https://github.com/YOUR-USERNAME/ai-desk-robot)
+### [AI Desk Robot](https://github.com/patrickbacon/ai-desk-robot)
 A talking desk robot with an OLED face that turns toward movement and holds conversations through an AI linked to a PC.
 
 ### [sUAS Dropper](https://github.com/YOUR-USERNAME/suas-dropper)
